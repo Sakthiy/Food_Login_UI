@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930374874423",
+    "project_id": "login-e3d8f",
+    "storage_bucket": "login-e3d8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930374874423:android:5828e974b09de794cb16b2",
+        "android_client_info": {
+          "package_name": "com.example.oxyfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930374874423-g7ncace23c6b6ltg1s8shm4uklmu2hlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvs-okMZQ2VXShnzGUqO7JXgAJPNh4Zmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930374874423-g7ncace23c6b6ltg1s8shm4uklmu2hlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
